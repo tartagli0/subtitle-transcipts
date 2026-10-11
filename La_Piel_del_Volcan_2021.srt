@@ -96,7 +96,7 @@ sus sueños.
 
 25
 00:04:50,889 --> 00:04:51,889
-Qué bonito.
+¡Qué bonito!
 
 26
 00:04:53,266 --> 00:04:56,266
@@ -116,11 +116,11 @@ y del represaliado de guerra.
 
 30
 00:05:34,000 --> 00:05:37,000
-Dr. Rafael, soy yo Roberto. No tiene nada.
+Dr. Rafael, soy yo, Roberto. No tiene nada.
 
 31
 00:05:37,050 --> 00:05:39,000
-No digo nada, Roberto. Estese tranquilo.
+No digo nada, Roberto. Estése tranquilo.
 
 32
 00:06:06,291 --> 00:06:07,291
@@ -128,7 +128,7 @@ No digo nada, Roberto. Estese tranquilo.
 
 33
 00:06:07,443 --> 00:06:08,443
-No, nada maestro.
+No, nada, maestro.
 
 34
 00:06:09,870 --> 00:06:10,870
@@ -148,7 +148,7 @@ Cállate, coño.
 
 38
 00:06:16,237 --> 00:06:17,737
-¿Quieres mi hermana te escuche?
+¿Quieres que mi hermana te escuche?
 
 39
 00:06:18,201 --> 00:06:20,451
@@ -180,7 +180,7 @@ Si hay alguien que le haga cobijo, esa es la bruja.
 
 46
 00:06:42,981 --> 00:06:45,481
-Se jodió. Seguro está ahí dentro y no me quiere abrir.
+Se jodió. Seguro que está ahí dentro y no me quiere abrir.
 
 47
 00:06:49,812 --> 00:06:50,812
@@ -196,7 +196,7 @@ Yo hubiese dicho que estaba en la casa, pero no abrió ni la puerta.
 
 50
 00:06:54,000 --> 00:06:55,052
-¿Avelino, cómo me estás mintiendo?
+Avelino, ¿cómo me estás mintiendo?
 
 51
 00:06:55,114 --> 00:06:56,800
@@ -224,7 +224,7 @@ Menos todavía. Nunca entró en esta casa.
 
 57
 00:07:07,467 --> 00:07:10,809
-Si nos estés diciendo mentiras, no llegas a mañana. Maldito imbécil.
+Si nos estás diciendo mentiras, no llegas a mañana. Maldito imbécil.
 
 58
 00:07:10,905 --> 00:07:13,085
@@ -264,7 +264,7 @@ Señora, para su casa. ¡Ya!
 
 67
 00:07:54,783 --> 00:07:55,783
-Si quieras, métase.
+Si quiere, métase.
 
 68
 00:07:57,079 --> 00:07:58,079
@@ -308,7 +308,7 @@ Tráiganme la chaqueta.
 
 78
 00:08:24,360 --> 00:08:26,360
-Está en la Calle Altozano. ¡Vengan!
+Está en la calle Altozano. ¡Vengan!
 
 79
 00:08:36,320 --> 00:08:38,320
@@ -388,7 +388,7 @@ Todo el mundo a callarse.
 
 98
 00:09:19,165 --> 00:09:22,665
-Y tú como digas algo, estás muerto, ¿eh? Estás muerto.
+Y tú, como digas algo, estás muerto, ¿eh? Estás muerto.
 
 99
 00:09:29,929 --> 00:09:31,929
@@ -440,7 +440,7 @@ Bueno, tú no participaste en la trama.
 
 111
 00:10:12,332 --> 00:10:16,832
-No participé, pero me cubrí actos de partido que no tenía que haber cubierto.
+No participé, pero cubrí actos de partido que no tenía que haber cubierto.
 
 112
 00:10:17,086 --> 00:10:21,086
@@ -476,7 +476,7 @@ Y no creo que lo haga pronto.
 
 120
 00:10:49,477 --> 00:10:51,977
-¿De que no le contaste lo de la noticia?
+¿De qué no le contaste lo de la noticia?
 
 121
 00:10:52,041 --> 00:10:54,041
@@ -500,7 +500,7 @@ El yacimiento de El Paso del Canario
 
 126
 00:11:36,301 --> 00:11:38,720
-y créanme, que no exagero,
+y, créanme, no exagero,
 
 127
 00:11:39,645 --> 00:11:42,645
@@ -536,7 +536,7 @@ alrededor de eso que entendemos como historia con H mayúscula,
 
 135
 00:12:18,697 --> 00:12:21,697
-se estaba cerrando en un círculo a través de esos huesos
+se estaba cerrando un círculo a través de esos huesos
 
 136
 00:12:21,801 --> 00:12:25,751
@@ -612,7 +612,7 @@ Te recogí en el bosque, moribundo.
 
 154
 00:15:02,185 --> 00:15:04,685
-Hablaré lengua que yo quiera.
+Hablaré la lengua que yo quiera.
 
 155
 00:15:45,169 --> 00:15:46,169
@@ -704,7 +704,7 @@ Porque echaron las redes y no pescaron nada.
 
 177
 00:17:07,194 --> 00:17:09,694
-No le venía a cuenta subir para leerte.
+No le venía a cuenta subir para verte.
 
 178
 00:17:32,675 --> 00:17:34,175
@@ -784,7 +784,7 @@ Vamos a empezar por enseñarte las vocales.
 
 197
 00:19:28,540 --> 00:19:33,790
-El cuerpo de los años 40 pensamos que es de un represaliado. Seguras al 90%.
+El cuerpo de los años 40 pensamos que es de un represaliado. Seguros al 90 %.
 
 198
 00:19:33,903 --> 00:19:36,653
@@ -872,7 +872,7 @@ Olvídalo.
 
 219
 00:21:11,038 --> 00:21:14,206
-Entró desvariando. Pregunta por ti y desmaya.
+Entró desvariando. Pregunta por ti y se desmaya.
 
 220
 00:21:14,256 --> 00:21:16,256
@@ -912,7 +912,7 @@ Que hemos parado de usar esa lengua.
 
 229
 00:21:36,560 --> 00:21:39,060
-Si no calmas, heridas peor.
+Si no te calmas, las heridas irán a peor.
 
 230
 00:21:39,881 --> 00:21:44,131
@@ -924,7 +924,7 @@ Si no calmas, heridas peor.
 
 232
 00:21:46,460 --> 00:21:48,960
-<i>Dime donde está mi hermana.</i>
+<i>Dime dónde está mi hermana.</i>
 
 233
 00:21:52,072 --> 00:21:53,072
@@ -976,7 +976,7 @@ No quiero hablar.
 
 245
 00:23:09,381 --> 00:23:11,381
-solo quiero dormir.
+Solo quiero dormir.
 
 246
 00:23:16,149 --> 00:23:17,649
@@ -1004,11 +1004,11 @@ Segismundo.
 
 252
 00:24:10,094 --> 00:24:12,344
-Segismundo por favor, no me dejes otra vez.
+Segismundo, por favor, no me dejes otra vez.
 
 253
 00:24:12,397 --> 00:24:14,397
-Segismundo por favor, tengo frío.
+Segismundo, por favor, tengo frío.
 
 254
 00:24:15,671 --> 00:24:16,421
@@ -1036,7 +1036,7 @@ Quiero padecerle a los demás.
 
 260
 00:24:44,469 --> 00:24:45,419
-Qué payaso.
+¡Qué payaso!
 
 261
 00:24:45,432 --> 00:24:48,382
@@ -1108,7 +1108,7 @@ No, tengo que contarte una cosa,
 
 278
 00:25:40,329 --> 00:25:42,829
-pero llámala a ella también, esto le va a interesar.
+pero llámala a ella también. Esto le va a interesar.
 
 279
 00:25:51,561 --> 00:25:52,561
@@ -1288,7 +1288,7 @@ Ik.
 
 323
 00:29:19,651 --> 00:29:20,651
-Amen.
+Amén.
 
 324
 00:29:32,787 --> 00:29:35,287
@@ -1356,7 +1356,7 @@ Pues fíjate bien.
 
 340
 00:31:23,633 --> 00:31:25,883
-Qué bonito este escrito, prima.
+¡Qué bonito este escrito, prima!
 
 341
 00:31:25,971 --> 00:31:28,221
@@ -1400,7 +1400,7 @@ Es de Roberto.
 
 351
 00:31:49,972 --> 00:31:50,972
-Que precioso.
+¡Qué precioso!
 
 352
 00:31:53,815 --> 00:31:56,815
@@ -1420,7 +1420,7 @@ Tu hermano es muy traicionero.
 
 356
 00:32:07,831 --> 00:32:10,331
-No me quiero meter en esas cosas, pero,
+No me quiero meter en esas cosas, pero...
 
 357
 00:32:11,746 --> 00:32:13,746
@@ -1468,7 +1468,7 @@ Tuve marido unos cuantos años, pero murió.
 
 368
 00:32:56,723 --> 00:32:58,723
-Mi marido primero no fue un buen marido.
+Mi primer marido no fue un buen marido.
 
 369
 00:33:00,145 --> 00:33:02,145
@@ -1548,7 +1548,7 @@ Fíjese usted que mi madre era viuda...
 
 388
 00:34:33,131 --> 00:34:37,631
-Mi tío Segismundo, era casi un padre para mi madre, se opuso.
+Mi tío Segismundo era casi un padre para mi madre. Se opuso.
 
 389
 00:34:38,601 --> 00:34:40,601
@@ -1584,7 +1584,7 @@ Pero...
 
 397
 00:35:02,746 --> 00:35:04,746
-Usted me creería, si le digo...
+Usted me creería si le digo...
 
 398
 00:35:06,555 --> 00:35:08,555
@@ -1680,7 +1680,7 @@ No como yo.
 
 421
 00:36:31,240 --> 00:36:32,990
-Yo nada más se pescar.
+Yo nada más sé pescar.
 
 422
 00:36:34,044 --> 00:36:36,044
@@ -1700,7 +1700,7 @@ Nada, yo.
 
 426
 00:36:42,895 --> 00:36:44,895
-Yo nada más se pescar.
+Yo nada más sé pescar.
 
 427
 00:36:45,816 --> 00:36:47,316
@@ -1716,7 +1716,7 @@ Y escribir...
 
 430
 00:36:52,141 --> 00:36:53,391
-Qué bonito.
+¡Qué bonito!
 
 431
 00:36:54,277 --> 00:36:57,027
@@ -1748,7 +1748,7 @@ Me dijo que yo ahora ya...
 
 438
 00:37:13,660 --> 00:37:16,160
-...si no que las letras me sabían a mí.
+...sino que las letras me sabían a mí.
 
 439
 00:37:17,430 --> 00:37:21,430
@@ -1784,7 +1784,7 @@ Pero tú eres una isla...
 
 447
 00:37:45,035 --> 00:37:46,535
-... a salvo.
+...a salvo.
 
 448
 00:37:47,600 --> 00:37:49,100
@@ -1828,7 +1828,7 @@ Es muy bonito lo que nos ha contado ahora.
 
 458
 00:38:41,609 --> 00:38:43,109
-Pero, una cosa.
+Pero una cosa.
 
 459
 00:38:44,554 --> 00:38:48,304
@@ -1854,7 +1854,7 @@ Yo me enteré hace poco,
 
 464
 00:38:57,730 --> 00:39:01,230
-y al parecer, todo esto se lo había
+y, al parecer, todo esto se lo había
 guardado ella durante años.
 
 465
@@ -1916,12 +1916,11 @@ Pero díganme, ¿puedo ir a ver a mi padre?
 
 479
 00:40:01,542 --> 00:40:04,042
-<i>Se despierta y al verme</i>
+<i>Se despierta y, al verme,</i>
 
 480
 00:40:05,404 --> 00:40:07,904
-<i>su risa despertó a</i>
-mis padres.
+<i>su risa despertó a mis padres.</i>
 
 481
 00:41:06,899 --> 00:41:08,899
@@ -1961,7 +1960,7 @@ Esos huesos de antiguo, déjalos ahí.
 
 490
 00:41:51,262 --> 00:41:53,262
-No lo hacen daño a nadie.
+No le hacen daño a nadie.
 
 491
 00:41:53,770 --> 00:41:56,270
@@ -1981,7 +1980,7 @@ Necesito escribir.
 
 495
 00:42:09,922 --> 00:42:10,922
-Segismundo di...
+Segismundo, di...
 
 496
 00:42:11,984 --> 00:42:14,339
@@ -1997,7 +1996,7 @@ Que no le hice daño a nadie.
 
 499
 00:42:16,949 --> 00:42:18,449
-!Cállate, coño!
+¡Cállate, coño!
 
 500
 00:42:28,924 --> 00:42:30,874
@@ -2023,7 +2022,7 @@ Vas a vivir y vas a volver con tu mujer.
 505
 00:42:38,496 --> 00:42:41,496
 Y vas a ser un hombre con cabeza
-y te vas a dejar de bobería.
+y te vas a dejar de boberías.
 
 506
 00:42:42,690 --> 00:42:44,690
@@ -2065,7 +2064,7 @@ Manchadas de sangre.
 
 515
 00:43:09,075 --> 00:43:12,075
-Pues con estas manos manchas de sangre
+Pues con estas manos manchadas de sangre
 le he dado de comer a tu hija.
 
 516
@@ -2090,7 +2089,7 @@ Ideas de revirado.
 
 521
 00:43:22,515 --> 00:43:24,231
-Ideas que no te gusta y por eso...
+Ideas que no te gustan y por eso...
 
 522
 00:43:24,647 --> 00:43:27,077
@@ -2118,7 +2117,7 @@ De golpes ni de unos ni de otros.
 
 528
 00:43:39,968 --> 00:43:42,218
-Yo nada mas quiero que se pueda hablar.
+Yo nada más quiero que se pueda hablar.
 
 529
 00:43:42,228 --> 00:43:44,228
@@ -2174,7 +2173,7 @@ Nada...
 
 542
 00:44:47,793 --> 00:44:49,793
-si no el valor para amarla.
+sino el valor para amarla.
 
 543
 00:44:51,836 --> 00:44:53,836
@@ -2206,7 +2205,7 @@ no serán pavés...
 
 550
 00:45:08,984 --> 00:45:10,484
-si no piedras.
+sino piedras.
 
 551
 00:45:12,431 --> 00:45:13,931
@@ -2332,7 +2331,7 @@ Sí.
 
 581
 00:47:09,475 --> 00:47:11,475
-Yo me se toda la historia con Raquel.
+Yo me sé toda la historia con Raquel.
 
 582
 00:47:11,525 --> 00:47:13,025
@@ -2392,7 +2391,7 @@ fue Diego.
 
 595
 00:47:54,336 --> 00:47:59,336
-Esta persona, no solo sabía lo que estaba ocurriendo, sino que no dijo nada.
+Esta persona no solo sabía lo que estaba ocurriendo, sino que no dijo nada.
 
 596
 00:48:00,276 --> 00:48:09,026
@@ -2403,7 +2402,7 @@ ha estado robando durante años el dinero.
 
 597
 00:48:09,583 --> 00:48:16,026
-Que nosotros como contribuyentes
+Que nosotros, como contribuyentes,
 aportamos a las arcas públicas con
 nuestro esfuerzo y con nuestro sacrificio.
 
@@ -2436,7 +2435,7 @@ Segismundo, ¡me cago en diez!
 
 604
 00:49:08,098 --> 00:49:09,841
-Hola, Paco
+Hola, Paco.
 Miguel, ¿qué tal?
 
 605
@@ -2454,7 +2453,7 @@ Está bien.
 
 608
 00:49:15,963 --> 00:49:18,463
-¿Qué sobrina más bonita tienes?
+¡Qué sobrina más bonita tienes!
 Buenas tardes.
 
 609
@@ -2471,7 +2470,7 @@ Con el saludo está bien así.
 
 612
 00:49:25,685 --> 00:49:27,935
-Coño, Segismundo, que tenso te noto.
+Coño, Segismundo, qué tenso te noto.
 
 613
 00:49:27,985 --> 00:49:29,985
@@ -2645,7 +2644,7 @@ Vamos, Usem.
 
 655
 00:52:03,521 --> 00:52:05,021
-¿Pinona, qué te pasa?
+Pinona, ¿qué te pasa?
 
 656
 00:52:05,588 --> 00:52:07,588
@@ -2697,11 +2696,11 @@ Siéntate aquí.
 
 668
 00:52:38,372 --> 00:52:41,371
-Yo lo sé mi amor, que tú no hiciste nada.
+Yo lo sé, mi amor, que tú no hiciste nada.
 
 669
 00:52:41,421 --> 00:52:42,921
-Hay, Dios mio...
+Ay, Dios mío...
 
 670
 00:52:53,112 --> 00:52:56,062
@@ -2742,7 +2741,7 @@ Segismundo, ¿qué estás haciendo?
 
 679
 00:53:34,529 --> 00:53:36,029
-Perdona Pinona.
+Perdona, Pinona.
 
 680
 00:53:36,406 --> 00:53:38,629
@@ -2767,7 +2766,7 @@ Perdona Pinona.
 
 685
 00:53:47,397 --> 00:53:48,867
-- !Júralo!
+- ¡Júralo!
 - ¡Lo juro!
 
 686
@@ -2789,7 +2788,7 @@ Silencio, no hagan ruido.
 
 690
 00:54:48,175 --> 00:54:51,422
-Que si no se enteran la gente que vinieron y no se puede entrar nadie.
+Que si no se entera la gente que vino, no puede entrar nadie.
 
 691
 00:54:51,669 --> 00:54:53,669
@@ -2829,7 +2828,7 @@ Dios os guarde, Mateo.
 
 700
 00:55:52,011 --> 00:55:53,511
-¿Válgame el cielo?
+¡Válgame el cielo!
 
 701
 00:55:54,359 --> 00:55:56,859
@@ -2861,7 +2860,7 @@ Bueno, yo tengo calor.
 
 708
 00:56:30,949 --> 00:56:33,406
-Pero eso no es cosa rara mia, ¿eh?
+Pero eso no es cosa rara mía, ¿eh?
 
 709
 00:56:33,456 --> 00:56:34,822
@@ -2901,7 +2900,7 @@ El fuego no me quiere ya.
 
 718
 00:57:07,653 --> 00:57:10,153
-¿Avelino, tu madre va a tardar mucho, mi niño?
+Avelino, ¿tu madre va a tardar mucho, mi niño?
 
 719
 00:57:11,647 --> 00:57:14,147
@@ -2957,11 +2956,11 @@ Mejor me quedo.
 
 732
 00:58:16,218 --> 00:58:18,718
-Pues si se va a quedar, estese tranquila.
+Pues si se va a quedar, estése tranquila.
 
 733
 00:58:19,781 --> 00:58:21,781
-La pañoleta esa, se la quita.
+La pañoleta esa se la quita.
 
 734
 00:58:22,810 --> 00:58:24,810
@@ -3097,7 +3096,7 @@ Mateo,
 
 767
 01:00:18,104 --> 01:00:19,169
-¿que decidís?
+¿qué decidís?
 
 768
 01:00:25,559 --> 01:00:27,509
@@ -3129,7 +3128,7 @@ Bueno, eh...
 
 775
 01:00:51,930 --> 01:00:52,930
-.. mire usted.
+...mire usted.
 
 776
 01:00:53,209 --> 01:00:55,209
@@ -3141,7 +3140,7 @@ Eh, a su marido,
 
 778
 01:01:01,881 --> 01:01:04,348
-Bueno, ¿que le faltaba ser maricón?
+Bueno, ¿qué le faltaba ser maricón?
 
 779
 01:01:04,398 --> 01:01:06,198
@@ -3150,7 +3149,7 @@ Bueno, ¿que le faltaba ser maricón?
 
 780
 01:01:06,248 --> 01:01:08,111
-A la vista está qué no lo era.
+A la vista está que no lo era.
 
 781
 01:01:08,236 --> 01:01:11,186
@@ -3162,7 +3161,7 @@ y por reuniones...
 
 783
 01:01:13,568 --> 01:01:14,921
-¿como dicen?
+¿cómo dicen?
 
 784
 01:01:15,068 --> 01:01:16,068
@@ -3202,7 +3201,7 @@ Esto.
 
 793
 01:02:21,190 --> 01:02:24,259
-Esto no puede interponerse entre el alma cristiano y su creador.
+Esto no puede interponerse entre el alma cristiana y su creador.
 
 794
 01:02:24,309 --> 01:02:27,309
@@ -3394,7 +3393,7 @@ Esto es para ella.
 
 841
 01:07:44,206 --> 01:07:47,276
- No seas pájaro de mal agüero, coño.
+No seas pájaro de mal agüero, coño.
 ¡Que no te va a pasar nada!
 
 842
@@ -3415,7 +3414,7 @@ Se lo das tú.
 
 846
 01:08:10,125 --> 01:08:12,625
-¡Quítatela pistola y peleate como un hombre, coño!
+¡Quítate la pistola y péléate como un hombre, coño!
 
 847
 01:08:20,952 --> 01:08:22,648
@@ -3475,7 +3474,7 @@ Yo soy un hombre y tú una rata.
 
 861
 01:10:29,734 --> 01:10:34,984
-<i>Si vienes a matarme que sea con arma canaria.</i>
+<i>Si vienes a matarme, que sea con arma canaria.</i>
 
 862
 01:10:49,214 --> 01:10:50,214
@@ -3503,7 +3502,7 @@ Yo soy un hombre y tú una rata.
 
 868
 01:11:13,054 --> 01:11:15,054
-<i>¡yo soy libre!</i>
+<i>¡Yo soy libre!</i>
 
 869
 01:11:19,068 --> 01:11:20,068
@@ -3637,7 +3636,7 @@ que él era buen hombre.
 
 901
 01:14:32,382 --> 01:14:35,366
-Eso ya lo sé, pero Segismundo, ¿donde está?
+Eso ya lo sé, pero Segismundo, ¿dónde está?
 
 902
 01:14:43,284 --> 01:14:46,284
@@ -3701,8 +3700,8 @@ A ti.
 
 917
 01:21:21,903 --> 01:21:23,491
-¡Encontrele!
-¡Encontrele!
+¡Encontréle!
+¡Encontréle!
 
 918
 01:21:23,541 --> 01:21:24,541
@@ -3722,7 +3721,7 @@ Que yo no creo que tengas nada que decirme.
 
 922
 01:21:46,390 --> 01:21:49,390
-No es a mi a quien quiero que escuches, Raquel.
+No es a mí a quien quiero que escuches, Raquel.
 
 923
 01:21:58,946 --> 01:22:00,946
@@ -3750,7 +3749,7 @@ La admiro mucho.
 
 929
 01:22:18,703 --> 01:22:24,703
-Cuando quiso ser arqueóloga, yo la mire
+Cuando quiso ser arqueóloga, yo la miré
 y le dije que si eso le iba a dar de comer.
 
 930
@@ -3764,7 +3763,7 @@ pero que solo...
 932
 01:22:30,084 --> 01:22:33,872
 con la emoción que sentía al imaginarlo,
-le alimentaba al alma y...
+alimentaba el alma y...
 
 933
 01:22:34,411 --> 01:22:36,411
@@ -3772,7 +3771,7 @@ y eso era lo que le importaba.
 
 934
 01:22:37,593 --> 01:22:39,593
-Las admirosas purezas.
+Las admirables purezas.
 
 935
 01:22:40,251 --> 01:22:41,583
@@ -3804,7 +3803,7 @@ Cuídala.
 
 942
 01:22:58,226 --> 01:23:00,726
-Y dile a mi parte, cuando consigas hablarle,
+Y dile de mi parte, cuando consigas hablarle,
 
 943
 01:23:01,490 --> 01:23:03,490
