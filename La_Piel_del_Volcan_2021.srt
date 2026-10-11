@@ -60,7 +60,7 @@ Pero si llegó a andar, este hombre cogeaba.
 
 16
 00:04:09,000 --> 00:04:13,000
-[en amazigh] El agua no se le niega ni a los perros.
+<i>El agua no se le niega ni a los perros.</i>
 
 17
 00:04:26,299 --> 00:04:28,799
@@ -576,7 +576,7 @@ No te alteres.
 
 145
 00:14:17,724 --> 00:14:20,724
-[en amazigh] ¿Por qué no hablas nuestra lengua?
+<i>¿Por qué no hablas nuestra lengua?</i>
 
 146
 00:14:22,311 --> 00:14:25,811
@@ -584,11 +584,11 @@ Ya no se habla esa lengua aquí.
 
 147
 00:14:28,336 --> 00:14:33,836
-[en amazigh] Me niego a hablar otra lengua que no sea la nuestra.
+<i>Me niego a hablar otra lengua que no sea la nuestra.</i>
 
 148
 00:14:37,794 --> 00:14:40,044
-[en amazigh] ¿Dónde está Ik?
+<i>¿Dónde está Ik?</i>
 
 149
 00:14:40,094 --> 00:14:45,094
@@ -600,11 +600,11 @@ Te recogí en el bosque, moribundo.
 
 151
 00:14:53,313 --> 00:14:54,813
-[en amazigh] Siento vergüenza.
+<i>Siento vergüenza.</i>
 
 152
 00:14:56,206 --> 00:14:58,206
-[en amazigh] No hables esa lengua.
+<i>No hables esa lengua.</i>
 
 153
 00:14:59,779 --> 00:15:01,729
@@ -880,11 +880,11 @@ Entró desvariando. Pregunta por ti y desmaya.
 
 221
 00:21:17,129 --> 00:21:18,629
-[en amazigh] ¿Dónde está mi hermana?
+<i>¿Dónde está mi hermana?</i>
 
 222
 00:21:18,679 --> 00:21:21,279
-[en amazigh] ¡Despierta y dime dónde está mi hermana!
+<i>¡Despierta y dime dónde está mi hermana!</i>
 
 223
 00:21:21,519 --> 00:21:23,519
@@ -892,23 +892,23 @@ Que hemos parado de usar esa lengua.
 
 224
 00:21:24,010 --> 00:21:25,960
-[en amazigh] ¡Dime dónde está mi hermana!
+<i>¡Dime dónde está mi hermana!</i>
 
 225
 00:21:25,982 --> 00:21:26,982
-[en amazigh] ¡Ik!
+<i>¡Ik!</i>
 
 226
 00:21:27,780 --> 00:21:30,280
-[en amazigh] Ik, tenemos que salir...
+<i>Ik, tenemos que salir...</i>
 
 227
 00:21:30,438 --> 00:21:32,938
-[en amazigh] ¿Salir? ¿Tenemos que ir a buscarla?
+<i>¿Salir? ¿Tenemos que ir a buscarla?</i>
 
 228
 00:21:33,287 --> 00:21:36,337
-[en amazigh] No, pero tenemos que resistir.
+<i>No, pero tenemos que resistir.</i>
 
 229
 00:21:36,560 --> 00:21:39,060
@@ -916,39 +916,39 @@ Si no calmas, heridas peor.
 
 230
 00:21:39,881 --> 00:21:44,131
-[en amazigh] No puedo calmarme, debemos unirnos a la resistencia...
+<i>No puedo calmarme, debemos unirnos a la resistencia...</i>
 
 231
 00:21:44,272 --> 00:21:45,772
-[en amazigh] ...y luchar.
+<i>...y luchar.</i>
 
 232
 00:21:46,460 --> 00:21:48,960
-[en amazigh] Dime donde está mi hermana.
+<i>Dime donde está mi hermana.</i>
 
 233
 00:21:52,072 --> 00:21:53,072
-[en amazigh] Ellos...
+<i>Ellos...</i>
 
 234
 00:21:53,915 --> 00:21:56,915
-[en amazigh] Ellos los extranjeros...
+<i>Ellos los extranjeros...</i>
 
 235
 00:22:00,852 --> 00:22:02,852
-[en amazigh] ¿Qué extranjeros, Usem?
+<i>¿Qué extranjeros, Usem?</i>
 
 236
 00:22:02,902 --> 00:22:04,152
-[en amazigh] ¿De qué estás hablando?
+<i>¿De qué estás hablando?</i>
 
 237
 00:22:04,261 --> 00:22:06,011
-[en amazigh] ¡Usem, despierta!
+<i>¡Usem, despierta!</i>
 
 238
 00:22:06,170 --> 00:22:08,170
-[en amazigh] ¡No te duermas!
+<i>¡No te duermas!</i>
 
 239
 00:22:08,718 --> 00:22:09,718
@@ -1120,151 +1120,151 @@ Ik.
 
 281
 00:26:11,564 --> 00:26:13,564
-[en amazigh] Ik, despierta. Ik.
+<i>Ik, despierta. Ik.</i>
 
 282
 00:26:13,900 --> 00:26:15,400
-[en amazigh] ¿Qué haces?
+<i>¿Qué haces?</i>
 
 283
 00:26:15,828 --> 00:26:16,828
-[en amazigh] Escúchame.
+<i>Escúchame.</i>
 
 284
 00:26:17,873 --> 00:26:20,873
-[en amazigh] Nosotros tenemos...
+<i>Nosotros tenemos...</i>
 
 285
 00:26:23,073 --> 00:26:25,073
-[en amazigh] ... que prepararnos.
+<i>... que prepararnos.</i>
 
 286
 00:26:25,976 --> 00:26:26,976
-[en amazigh] Están cerca.
+<i>Están cerca.</i>
 
 287
 00:26:27,007 --> 00:26:28,007
-[en amazigh] Pronto vendrán.
+<i>Pronto vendrán.</i>
 
 288
 00:26:29,603 --> 00:26:33,103
-[en amazigh] Tenemos que unirnos a la resistencia.
+<i>Tenemos que unirnos a la resistencia.</i>
 
 289
 00:26:33,078 --> 00:26:34,828
-[en amazigh] Usem, respira.
+<i>Usem, respira.</i>
 
 290
 00:26:34,878 --> 00:26:37,878
-[en amazigh] Dime primero dónde está mi hermana.
+<i>Dime primero dónde está mi hermana.</i>
 
 291
 00:26:41,096 --> 00:26:45,096
-[en amazigh] Los castellanos asediaron Gáldar.
+<i>Los castellanos asediaron Gáldar.</i>
 
 292
 00:26:46,217 --> 00:26:49,217
-[en amazigh] Huimos hacia la fortaleza sur, Ansite.
+<i>Huimos hacia la fortaleza sur, Ansite.</i>
 
 293
 00:26:51,231 --> 00:26:52,731
-[en amazigh] Allí resistimos.
+<i>Allí resistimos.</i>
 
 294
 00:26:53,777 --> 00:26:57,777
-[en amazigh] Pero Guayarmina se entregó.
+<i>Pero Guayarmina se entregó.</i>
 
 295
 00:26:58,849 --> 00:27:01,849
-[en amazigh] Algunos seguimos resistiendo.
+<i>Algunos seguimos resistiendo.</i>
 
 296
 00:27:03,484 --> 00:27:04,984
-[en amazigh] Thiya estaba conmigo.
+<i>Thiya estaba conmigo.</i>
 
 297
 00:27:09,659 --> 00:27:12,059
-[en amazigh] Nosotros luchamos.
+<i>Nosotros luchamos.</i>
 
 298
 00:27:13,530 --> 00:27:15,530
-[en amazigh] Nos dieron alcance.
+<i>Nos dieron alcance.</i>
 
 299
 00:27:19,009 --> 00:27:22,259
-[en amazigh] Entonces ella...
+<i>Entonces ella...</i>
 
 300
 00:27:24,951 --> 00:27:26,951
-[en amazigh] quedó herida...
+<i>quedó herida...</i>
 
 301
 00:27:28,287 --> 00:27:30,287
-[en amazigh] y no pudo...
+<i>y no pudo...</i>
 
 302
 00:27:36,845 --> 00:27:38,845
-[en amazigh] Ik, ¿qué pasó?
+<i>Ik, ¿qué pasó?</i>
 
 303
 00:27:42,743 --> 00:27:44,243
-[en amazigh] ¡Lo sabía!
+<i>¡Lo sabía!</i>
 
 304
 00:27:44,930 --> 00:27:49,430
-[en amazigh] Mandaste a decirnos que habíamos muerto al aceptar a Cristo.
+<i>Mandaste a decirnos que habíamos muerto al aceptar a Cristo.</i>
 
 305
 00:27:50,942 --> 00:27:54,942
-[en amazigh] Nos rendimos al enemigo, según tú.
+<i>Nos rendimos al enemigo, según tú.</i>
 
 306
 00:27:55,758 --> 00:27:59,758
-[en amazigh] Y ahora vienes a mi casa a decirme que mi hermana está muerta.
+<i>Y ahora vienes a mi casa a decirme que mi hermana está muerta.</i>
 
 307
 00:28:00,550 --> 00:28:04,050
-[en amazigh] Vine porque ella me pidió que viniera.
+<i>Vine porque ella me pidió que viniera.</i>
 
 308
 00:28:05,058 --> 00:28:09,058
-[en amazigh] Necesito esconderme aquí hasta que vuelvan mis fuerzas.
+<i>Necesito esconderme aquí hasta que vuelvan mis fuerzas.</i>
 
 309
 00:28:09,614 --> 00:28:13,614
-[en amazigh] Esta tierra sigue siendo nuestra.
+<i>Esta tierra sigue siendo nuestra.</i>
 
 310
 00:28:16,408 --> 00:28:19,908
-[en amazigh] Expulsaremos a los castellanos.
+<i>Expulsaremos a los castellanos.</i>
 
 311
 00:28:21,564 --> 00:28:23,564
-[en amazigh] ¿Tú solo?
+<i>¿Tú solo?</i>
 
 312
 00:28:23,730 --> 00:28:25,730
-[en amazigh] ¿Estás loco?
+<i>¿Estás loco?</i>
 
 313
 00:28:27,412 --> 00:28:28,662
-[en amazigh] Perdimos.
+<i>Perdimos.</i>
 
 314
 00:28:29,963 --> 00:28:31,963
-[en amazigh] Eso es lo que no entendiste.
+<i>Eso es lo que no entendiste.</i>
 
 315
 00:28:32,555 --> 00:28:35,555
-[en amazigh] Desde que se propusieron conquistarnos.
+<i>Desde que se propusieron conquistarnos.</i>
 
 316
 00:28:44,184 --> 00:28:47,184
-[en amazigh] A ti te vencieron.
+<i>A ti te vencieron.</i>
 
 317
 00:28:47,400 --> 00:28:51,400
-[en amazigh] Yo sigo libre.
+<i>Yo sigo libre.</i>
 
 318
 00:28:58,798 --> 00:29:01,798
@@ -1292,19 +1292,19 @@ Amen.
 
 324
 00:29:32,787 --> 00:29:35,287
-[en amazigh] La vida se alza a Magec,
+<i>La vida se alza a Magec,</i>
 
 325
 00:29:36,425 --> 00:29:37,925
-[en amazigh] a Ella vuelve.
+<i>a Ella vuelve.</i>
 
 326
 00:29:40,723 --> 00:29:45,723
-[en amazigh] La vida se alza
+<i>La vida se alza</i>
 
 327
 00:29:46,445 --> 00:29:49,445
-[en amazigh] y los que estamos aquí alzamos las manos
+<i>y los que estamos aquí alzamos las manos</i>
 
 328
 00:30:20,429 --> 00:30:23,429
@@ -1312,23 +1312,23 @@ Amen.
 
 329
 00:30:25,038 --> 00:30:27,038
-[en amazigh] Es lo que ella querría.
+<i>Es lo que ella querría.</i>
 
 330
 00:30:28,231 --> 00:30:30,231
-[en amazigh] Por eso lo permito.
+<i>Por eso lo permito.</i>
 
 331
 00:30:42,596 --> 00:30:45,096
-[en amazigh] Tendrá que esconderse bien.
+<i>Tendrá que esconderse bien.</i>
 
 332
 00:30:45,546 --> 00:30:48,046
-[en amazigh] Hasta que pueda andar.
+<i>Hasta que pueda andar.</i>
 
 333
 00:30:48,956 --> 00:30:51,956
-[en amazigh] Luego se irá para siempre.
+<i>Luego se irá para siempre.</i>
 
 334
 00:31:04,543 --> 00:31:06,293
@@ -1888,39 +1888,39 @@ Pero díganme, ¿puedo ir a ver a mi padre?
 
 472
 00:39:30,759 --> 00:39:32,759
-[en amazigh] Me acuerdo de pequeños,
+<i>Me acuerdo de pequeños,</i>
 
 473
 00:39:33,437 --> 00:39:37,437
-[en amazigh] que me dijo que podía ver espíritus.
+<i>que me dijo que podía ver espíritus.</i>
 
 474
 00:39:37,947 --> 00:39:40,447
-[en amazigh] A mí eso me daba miedo, era pequeño.
+<i>A mí eso me daba miedo, era pequeño.</i>
 
 475
 00:39:40,649 --> 00:39:44,649
-[en amazigh] Pues me dijo que había un espíritu maligno,
+<i>Pues me dijo que había un espíritu maligno,</i>
 
 476
 00:39:45,694 --> 00:39:47,694
-[en amazigh] que me quedara quieto.
+<i>que me quedara quieto.</i>
 
 477
 00:39:50,022 --> 00:39:54,022
-[en amazigh] Yo me quedé quieto como una piedra.
+<i>Yo me quedé quieto como una piedra.</i>
 
 478
 00:39:54,684 --> 00:39:57,684
-[en amazigh] Toda la noche, ella se durmió.
+<i>Toda la noche, ella se durmió.</i>
 
 479
 00:40:01,542 --> 00:40:04,042
-[en amazigh] Se despierta y al verme
+<i>Se despierta y al verme</i>
 
 480
 00:40:05,404 --> 00:40:07,904
-[en amazigh] su risa despertó a
+<i>su risa despertó a</i>
 mis padres.
 
 481
@@ -2226,7 +2226,7 @@ Eres un bajo y un cobarde.
 
 555
 00:45:39,541 --> 00:45:44,041
-[en amazigh] Me gusta recordarla
+<i>Me gusta recordarla</i>
 a través de tu memoria.
 
 556
@@ -2239,23 +2239,23 @@ a través de tu memoria.
 
 558
 00:45:51,851 --> 00:45:54,851
-[en amazigh] Tus recuerdos se juntan con los míos
+<i>Tus recuerdos se juntan con los míos</i>
 
 559
 00:45:54,901 --> 00:45:58,901
-[en amazigh] como el agua del barranco y del mar.
+<i>como el agua del barranco y del mar.</i>
 
 560
 00:45:59,200 --> 00:46:01,200
-[en amazigh] Y ella
+<i>Y ella</i>
 
 561
 00:46:01,300 --> 00:46:02,800
-[en amazigh] está aquí
+<i>está aquí</i>
 
 562
 00:46:04,714 --> 00:46:06,214
-[en amazigh] entre nosotros.
+<i>entre nosotros.</i>
 
 563
 00:46:31,691 --> 00:46:33,641
@@ -2479,7 +2479,7 @@ No me gusta tu tono.
 
 614
 00:49:30,006 --> 00:49:31,506
-Ni a mi tus amanes, ¿eh?
+Ni a mí tus modales, ¿eh?
 
 615
 00:49:31,638 --> 00:49:32,888
@@ -2580,52 +2580,52 @@ Nos vemos en casa.
 
 639
 00:50:37,637 --> 00:50:40,387
-[en amazigh] Para ella es un juramento.
+<i>Para ella es un juramento.</i>
 
 640
 00:50:41,451 --> 00:50:44,451
-[en amazigh] Desde que decidió aceptar a Cristo,
+<i>Desde que decidió aceptar a Cristo,</i>
 
 641
 00:50:44,793 --> 00:50:46,793
-[en amazigh] es su decisión.
+<i>es su decisión.</i>
 
 642
 00:50:47,710 --> 00:50:49,710
-[en amazigh] No quiere recordar.
+<i>No quiere recordar.</i>
 
 643
 00:50:50,310 --> 00:50:52,310
-[en amazigh] Quiere mirar adelante.
+<i>Quiere mirar adelante.</i>
 
 644
 00:50:53,290 --> 00:50:58,981
-[en amazigh] No podemos vivir arrodillados
+<i>No podemos vivir arrodillados</i>
 ante un par de palos cruzados.
 
 645
 00:50:59,360 --> 00:51:01,678
-[en amazigh] Ellos nos trajeron muerte.
+<i>Ellos nos trajeron muerte.</i>
 
 646
 00:51:01,838 --> 00:51:04,857
-[en amazigh] Usem, voy a decir algo que te molesta.
+<i>Usem, voy a decir algo que te molesta.</i>
 
 647
 00:51:06,599 --> 00:51:08,951
-[en amazigh] A mí también me molesta.
+<i>A mí también me molesta.</i>
 
 648
 00:51:09,187 --> 00:51:10,687
-[en amazigh] Mi mujer está viva.
+<i>Mi mujer está viva.</i>
 
 649
 00:51:10,817 --> 00:51:14,067
-[en amazigh] Tengo otra ropa, hablo su lengua.
+<i>Tengo otra ropa, hablo su lengua.</i>
 
 650
 00:51:14,990 --> 00:51:17,012
-[en amazigh] Pero sigo siendo yo.
+<i>Pero sigo siendo yo.</i>
 
 651
 00:51:19,659 --> 00:51:20,659
@@ -2705,7 +2705,7 @@ Hay, Dios mio...
 
 670
 00:52:53,112 --> 00:52:56,062
-En lamento me encontré on Cha María.
+En la venta me encontré con Cha María.
 
 671
 00:52:57,269 --> 00:52:59,769
@@ -3222,7 +3222,7 @@ Es solo algo de familia.
 
 798
 01:02:43,094 --> 01:02:48,094
-Mateo, el detén de tu a la vuestra esposa lo hacemos nosotros.
+Mateo, el deber para con vuestra esposa lo hacemos nosotros.
 
 799
 01:02:49,545 --> 01:02:50,545
@@ -3318,31 +3318,31 @@ María, vamos.
 
 822
 01:05:41,709 --> 01:05:42,709
-[en amazigh] ¿Qué hacen?
+<i>¿Qué hacen?</i>
 
 823
 01:05:43,904 --> 01:05:44,904
-[en amazigh] ¿A dónde van?
+<i>¿A dónde van?</i>
 
 824
 01:05:47,390 --> 01:05:52,334
-[en amazigh] Ik, por favor, piense bien.
+<i>Ik, por favor, piense bien.</i>
 
 825
 01:05:53,542 --> 01:05:56,529
-[en amazigh] Tenía que hacerlo.
+<i>Tenía que hacerlo.</i>
 
 826
 01:05:58,275 --> 01:06:04,275
-[en amazigh] Él era uno de los que cometen abusos.
+<i>Él era uno de los que cometen abusos.</i>
 
 827
 01:06:08,592 --> 01:06:12,686
-[en amazigh] Los mismos que mataron a Thiya.
+<i>Los mismos que mataron a Thiya.</i>
 
 828
 01:06:13,937 --> 01:06:15,937
-[en amazigh] ¿No lo entiendes?
+<i>¿No lo entiendes?</i>
 
 829
 01:06:22,388 --> 01:06:23,388
@@ -3431,79 +3431,79 @@ Yo soy un hombre y tú una rata.
 
 850
 01:09:40,581 --> 01:09:42,581
-[en amazigh] ¡Pelea!
+<i>¡Pelea!</i>
 
 851
 01:09:56,506 --> 01:09:59,506
-[en amazigh] ¿Vienes a matarme?
+<i>¿Vienes a matarme?</i>
 
 852
 01:10:00,218 --> 01:10:02,168
-[en amazigh] Vengo a avisarte.
+<i>Vengo a avisarte.</i>
 
 853
 01:10:02,456 --> 01:10:06,956
-[en amazigh] No quiero avisos de un traidor.
+<i>No quiero avisos de un traidor.</i>
 
 854
 01:10:07,213 --> 01:10:10,071
-[en amazigh] El niño monje te delató, Usem.
+<i>El niño monje te delató, Usem.</i>
 
 855
 01:10:10,121 --> 01:10:11,923
-[en amazigh] Vienen por ti.
+<i>Vienen por ti.</i>
 
 856
 01:10:13,341 --> 01:10:16,341
-[en amazigh] Aquí estoy, que vengan.
+<i>Aquí estoy, que vengan.</i>
 
 857
 01:10:16,391 --> 01:10:17,891
-[en amazigh] Huye, Usem.
+<i>Huye, Usem.</i>
 
 858
 01:10:18,653 --> 01:10:21,318
-[en amazigh] Me adelanté para avisarte.
+<i>Me adelanté para avisarte.</i>
 
 859
 01:10:21,402 --> 01:10:23,402
-[en amazigh] Estás a tiempo de escapar.
+<i>Estás a tiempo de escapar.</i>
 
 860
 01:10:25,267 --> 01:10:28,267
-[en amazigh] No voy a huir.
+<i>No voy a huir.</i>
 
 861
 01:10:29,734 --> 01:10:34,984
-[en amazigh] Si vienes a matarme que sea con arma canaria.
+<i>Si vienes a matarme que sea con arma canaria.</i>
 
 862
 01:10:49,214 --> 01:10:50,214
-[en amazigh] A por ti.
+<i>A por ti.</i>
 
 863
 01:10:51,060 --> 01:10:52,060
-[en amazigh] ¡Pelea!
+<i>¡Pelea!</i>
 
 864
 01:10:52,736 --> 01:10:53,736
-[en amazigh] ¡Pelea!
+<i>¡Pelea!</i>
 
 865
 01:11:04,860 --> 01:11:06,360
-[en amazigh] No quiero luchar.
+<i>No quiero luchar.</i>
 
 866
 01:11:06,410 --> 01:11:08,410
-[en amazigh] Vete y sigue libre.
+<i>Vete y sigue libre.</i>
 
 867
 01:11:09,726 --> 01:11:12,726
-[en amazigh] Esté aquí o esté allí...
+<i>Esté aquí o esté allí...</i>
 
 868
 01:11:13,054 --> 01:11:15,054
-[en amazigh] ¡yo soy libre!
+<i>¡yo soy libre!</i>
 
 869
 01:11:19,068 --> 01:11:20,068
@@ -3515,47 +3515,47 @@ Yo soy un hombre y tú una rata.
 
 871
 01:11:29,227 --> 01:11:32,227
-[en amazigh] Ojos color mar.
+<i>Ojos color mar.</i>
 
 872
 01:11:34,927 --> 01:11:36,927
-[en amazigh] Sonrisa de aire.
+<i>Sonrisa de aire.</i>
 
 873
 01:11:37,018 --> 01:11:39,018
-[en amazigh] Corazón con raíces.
+<i>Corazón con raíces.</i>
 
 874
 01:11:45,086 --> 01:11:47,586
-[en amazigh] Mente llena de frutos.
+<i>Mente llena de frutos.</i>
 
 875
 01:11:50,646 --> 01:11:56,646
-[en amazigh] El alma de las estrellas recogida en su cuerpo,
+<i>El alma de las estrellas recogida en su cuerpo,</i>
 
 876
 01:11:59,322 --> 01:12:01,322
-[en amazigh] repartidas en su espalda,
+<i>repartidas en su espalda,</i>
 
 877
 01:12:01,882 --> 01:12:06,382
-[en amazigh] donde me pierdo para encontrarte.
+<i>donde me pierdo para encontrarte.</i>
 
 878
 01:12:13,924 --> 01:12:17,424
-[en amazigh] Ahora...
+<i>Ahora...</i>
 
 879
 01:12:20,665 --> 01:12:22,665
-[en amazigh] ... cierro mis hojos...
+<i>... cierro mis hojos...</i>
 
 880
 01:12:25,805 --> 01:12:28,805
-[en amazigh] ... cierro mis hojos y puedo...
+<i>... cierro mis hojos y puedo...</i>
 
 881
 01:12:33,505 --> 01:12:35,505
-[en amazigh] ... verla.
+<i>... verla.</i>
 
 882
 01:13:20,172 --> 01:13:23,172
